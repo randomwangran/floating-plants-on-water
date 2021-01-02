@@ -1,4 +1,4 @@
-<img src="images/water.gif" align="right">
+<img src="images/floating-plants-on-water.png" align="right">
 
 
 # floating-plants-on-water
